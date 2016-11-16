@@ -1,6 +1,14 @@
 Flimter
 =================
 
+### Requirements
+- JDK anything above 5
+
+### Install instructions
+- ./setup.sh
+
+### Description
+
 I have tried to keep it as simple as possible.
 Basically there are two packages, `filters` and `effects`.
 
