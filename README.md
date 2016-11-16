@@ -1,5 +1,6 @@
-java_image_filter
+Flimter
 =================
+
 I have tried to keep it as simple as possible.
 Basically there are two packages, `filters` and `effects`.
 
