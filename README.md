@@ -38,7 +38,7 @@ The UI bit.
 The `SwingExample.java` just creates an interface for the whole project.
 I am looking forward to implement the camera photo film effects like Agfa, Velvia, Provia.
 
-####Working of some filters (more like a note to self):
+#### Working of some filters (more like a note to self):
 
 The `Curves.java` is used for color curves adjustments.
 
@@ -58,7 +58,7 @@ Using `BlendComposite` one can achieve the layer effects like `Overlay`, `Add`, 
 Some compound effects like `Amber`, `SandBlast`, `Speckel`, `Crossprocess`, `Potra` etc. are a combination of different
 simple filters that have been discussed above.
 
-####Known bugs
+#### Known bugs
 
 There is also a bug existance with the project: once you choose a file with jFileChoser and u need to select 
 another new image, then you can defintely select it with the jFileChooser but, the left side jPanel won't be
